@@ -1,0 +1,2 @@
+generic.CheckoutProses
+generic.Checkout
